@@ -1,0 +1,29 @@
+*{
+    background-color: 	#8FBC8F;
+}
+
+.daftar-nilai{
+    margin-top: 4px;
+    color: white;
+    font-family: comic sans ms ;
+}
+
+.carousel-item{
+    margin-top: 30px;
+}
+
+.d-block {
+    width: 1230px;
+    height: 520px;
+    border-radius: 50px;
+}
+
+.container-fluid{
+    color: white;
+    background-color: white;
+}
+
+
+    
+
+
